@@ -19,3 +19,6 @@ space bar - to run the algorithm
 c - to clear the screen
 right click - to delete a node 
 ```
+
+# Demo GIF file
+![](https://github.com/deepakkrish212/A-Path-Finding-Visualizer/blob/main/Animation.gif)
